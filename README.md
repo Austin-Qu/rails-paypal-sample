@@ -1,3 +1,5 @@
+Forked from Tealeaf Team. Ruby and gems upgraded to latest version
+
 # Paypal Basics
 
 This project illustrates how to manage payments in a Rails 4 application using Paypal service.
